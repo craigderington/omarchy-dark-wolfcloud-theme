@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+ <defs>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+   <stop stop-color="#71e5e8"/><stop offset=".52" stop-color="#a6d4d2"/><stop offset="1" stop-color="#ffbf69"/>
+  </linearGradient>
+ </defs>
+ <!-- A new geometric mark: swept ears, faceted cheeks, molten eyes. -->
+ <path d="M35 26 91 62 128 50 165 62 221 26 208 129 181 182 128 230 75 182 48 129Z"
+       fill="#111d23" stroke="url(#edge)" stroke-width="4" stroke-linejoin="round"/>
+ <path d="m35 26 56 68-43 35m173-103-56 68 43 35M91 62l37 49 37-49M75 182l34-42-18-46m90 88-34-42 18-46"
+       fill="none" stroke="#31515c" stroke-width="3" stroke-linejoin="round"/>
+ <path d="m48 129 58-13 22 20 22-20 58 13-27 53-53 48-53-48Z" fill="#0b1216"/>
+ <path d="m65 121 40 9-12 17-20-8Zm126 0-40 9 12 17 20-8Z" fill="#ffbf69"/>
+ <path d="m103 173 25-28 25 28-25 15Z" fill="#31515c"/>
+ <path d="m112 171 16-8 16 8-16 13Z" fill="#71e5e8"/>
+ <path d="m128 188 0 22m-17-13 17 13 17-13" fill="none" stroke="#8ba2a4" stroke-width="3" stroke-linecap="round"/>
+ <path d="m46 161 20 17m144-17-20 17" stroke="#71e5e8" stroke-width="3"/>
+</svg>

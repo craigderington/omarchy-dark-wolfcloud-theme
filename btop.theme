@@ -1,0 +1,94 @@
+# Dark Wolfcloud — cold signals, molten load.
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#0b1216"
+
+# Main text color
+theme[main_fg]="#d4e2df"
+
+# Title color for boxes
+theme[title]="#b5cacb"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#71e5e8"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#493b2c"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ffe2a8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#789095"
+
+# Color of text appearing on top of graphs, i.e uptime and current network graph scaling
+theme[graph_text]="#b5cacb"
+
+# Background color of the percentage meters
+theme[meter_bg]="#493b2c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#b5cacb"
+
+# CPU, Memory, Network, Proc box outline colors
+theme[cpu_box]="#71e5e8"
+theme[mem_box]="#9dbfa4"
+theme[net_box]="#83b8ce"
+theme[proc_box]="#ffbf69"
+
+# Box divider line and small boxes line color
+theme[div_line]="#31515c"
+
+# Temperature graph color (Green -> Yellow -> Red)
+theme[temp_start]="#71e5e8"
+theme[temp_mid]="#ffbf69"
+theme[temp_end]="#f47770"
+
+# CPU graph colors (Teal -> Blue -> Magenta)
+theme[cpu_start]="#31515c"
+theme[cpu_mid]="#71e5e8"
+theme[cpu_end]="#ffbf69"
+
+# Mem/Disk free meter
+theme[free_start]="#d78db8"
+theme[free_mid]="#83b8ce"
+theme[free_end]="#71e5e8"
+
+# Mem/Disk cached meter
+theme[cached_start]="#83b8ce"
+theme[cached_mid]="#71e5e8"
+theme[cached_end]="#d78db8"
+
+# Mem/Disk available meter
+theme[available_start]="#31515c"
+theme[available_mid]="#83b8ce"
+theme[available_end]="#a6f5ef"
+
+# Mem/Disk used meter (Green -> Teal -> Blue)
+theme[used_start]="#9dbfa4"
+theme[used_mid]="#71e5e8"
+theme[used_end]="#83b8ce"
+
+# Download graph colors
+theme[download_start]="#31515c"
+theme[download_mid]="#71e5e8"
+theme[download_end]="#a6f5ef"
+
+# Upload graph colors (Green -> Teal -> Blue)
+theme[upload_start]="#6b5140"
+theme[upload_mid]="#ffad66"
+theme[upload_end]="#ffe2a8"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#31515c"
+theme[process_mid]="#71e5e8"
+theme[process_end]="#ffbf69"
+
+# Graph gradient colors (spectrum shades from background to foreground)
+theme[gradient_color_0]="#0b1216"
+theme[gradient_color_1]="#18262d"
+theme[gradient_color_2]="#294149"
+theme[gradient_color_3]="#31515c"
+theme[gradient_color_4]="#789095"
+theme[gradient_color_5]="#8ba2a4"
+theme[gradient_color_6]="#b5cacb"
+theme[gradient_color_7]="#edfaf5"

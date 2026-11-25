@@ -1,0 +1,39 @@
+# DARK WOLFCLOUD — volcanic glass / ion storm / molten eye
+# One semantic palette drives Omarchy's app templates.
+mode = "dark"
+accent = "#71e5e8"
+selection = "#493b2c"
+selection_background = "#493b2c"
+selection_foreground = "#fff0d4"
+muted = "#789095"
+
+background = "#0b1216"
+dark_background = "#080e12"
+darker_background = "#05090c"
+lighter_background = "#18262d"
+
+foreground = "#d4e2df"
+dark_foreground = "#8ba2a4"
+light_foreground = "#b5cacb"
+bright_foreground = "#edfaf5"
+
+red = "#f47770"
+yellow = "#f4cf8a"
+orange = "#ffad66"
+green = "#9dbfa4"
+cyan = "#71e5e8"
+blue = "#83b8ce"
+magenta = "#d78db8"
+brown = "#ae8a6b"
+
+bright_red = "#ff9990"
+bright_yellow = "#ffe2a8"
+bright_green = "#bce0be"
+bright_cyan = "#a6f5ef"
+bright_blue = "#abd6e7"
+bright_magenta = "#efb2d5"
+
+# Ion → glacial mist → the wolf's amber eye.
+# Native gradient tokens also survive repository-based installation.
+hyprland_active_border = "#71e5e8 #a6d4d2 #ffbf69 35deg"
+hyprland_inactive_border = "#294149"

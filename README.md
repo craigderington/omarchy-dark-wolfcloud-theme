@@ -73,6 +73,8 @@ omarchy theme bg next
 
 Dark Wolfcloud uses a **280 ms crossfade with a subtle horizontal drift**.
 The drift alternates direction and settles onto the untouched wallpaper.
+All monitors wait for their incoming image before the shared animation starts,
+and retain it until every monitor has presented the final still.
 The normal wallpaper selector and `omarchy theme bg next` both use it.
 
 `./install.sh` installs this through Omarchy's supported background-plugin
